@@ -48,4 +48,4 @@ o	Plots: time/level series of NPP and separate HANPP plot if requested.
  
 o	Summary tab: mean, median, SD for reported variables.
  
-5.	Export — click Download Results to save an Excel file of the active results.
+•	Export — click Download Results to save an Excel file of the active results.
