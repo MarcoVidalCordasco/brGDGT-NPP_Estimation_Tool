@@ -4,10 +4,15 @@ climate variables. It implements a Random Forest model trained on global brGDGT�
 HANPP computation.
  
 Features
+ 
 •	brGDGT–derived NPP prediction (with uncertainty)
+ 
 •	Climate-derived NPP (Miami model)
+ 
 •	Human appropriation of NPP (HANPP)
+ 
 •	Plot and summary statistics export
+ 
 •	Excel output
  
 # Website: 
