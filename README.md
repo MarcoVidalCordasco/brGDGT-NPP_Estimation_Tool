@@ -32,7 +32,7 @@ d. Tick desired outputs: Plots and/or Summary Statistics. Click Next.
  
 •	Step 2 — upload data & compute NPP
  
-a. Upload brGDGT Excel (.xlsx) when using brGDGT method. File must contain the ID column (ID or Level) and brGDGT columns (the code expects columns 2:16 to hold the brGDGT percentages, an example is provided in Data folder).
+a. Upload brGDGT Excel (.xlsx) when using brGDGT method. File must contain the ID column (ID or Level) and brGDGT columns (the code expects columns 2:16 to hold the brGDGT percentages, an example is provided in Data folder. IMPORTANT NOTE: For penta- and hexa-methylated compounds, use an underscore rather than an apostrophe in the input file. For example, compounds commonly written as fIa' should be written as fIa_ ; for details, see examples provided in the Data folder).
  
 b. Upload climate Excel (.xlsx) when using climate method. File must contain the ID column and MAT and MAP columns (example provided in Data folder).
  
